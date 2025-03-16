@@ -1,0 +1,31 @@
+According to the wage trend in the dataset, the highest income was 30,400,000 in the work year 2021 and the highest average salary was 559350.9908. These salaries sharply decreased until the work year 2024, when they were 3,300,000 and 152216.5892, respectively. The minimum wage for the 2020 work year is $14,000. With a remote ratio of 100, the employee with the title "Data scientist" who works entirely remotely earns the highest average compensation. The highest average wage, 209271.7778, is earned by the employee with the most experience.
+
+
+
+
+Prepare a report or presentation summarizing the insights derived from the SQL queries.
+• Highlight key trends, such as the highest-paying countries, the impact of remote work on
+salaries, and the distribution of employees across different job titles and experience levels.
+
+Here are insights derived from the statement:
+
+1. **Significant Decrease in Wages Over Time**:
+   - The highest income and average salaries showed a sharp decline from 2021 to 2024. 
+   - The highest individual income dropped from **30,400,000** in 2021 to **3,300,000** in 2024, an **89% reduction**.
+   - The average salary decreased from **559,350.9908** in 2021 to **152,216.5892** in 2024, a **73% decrease**.
+
+2. **Historical Wage Baseline**:
+   - The minimum wage recorded in 2020 was **$14,000**, which may represent the lower threshold for compensation in the dataset.
+
+3. **Remote Work and Compensation**:
+   - Employees working remotely (remote ratio of 100) tend to earn higher compensation, with the title "Data Scientist" specifically standing out as having the **highest average compensation** in this category.
+
+4. **Experience and Earnings**:
+   - Compensation positively correlates with experience, as the **highest average wage of 209,271.7778** is earned by the most experienced employee.
+
+### Possible Conclusions:
+- The decline in wages over the years might reflect economic factors such as market saturation, economic downturns, or changes in industry demand.
+- Remote work offers competitive compensation, possibly due to cost savings for employers or the value placed on niche roles like "Data Scientist."
+- Experience remains a significant factor influencing wage levels, emphasizing the value of expertise in the job market. 
+
+#DataScience hashtag#SQL hashtag#DataAnalysis hashtag#CareerGrowth hashtag#MachineLearning hashtag#BusinessIntelligence hashtag#RemoteWork
