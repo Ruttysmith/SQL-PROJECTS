@@ -1,0 +1,23 @@
+In this analysis, I explored key factors influencing flight ticket pricing using a comprehensive dataset. The goal was to uncover trends and insights that can help travelers and stakeholders in the aviation industry make informed decisions.
+
+Key Findings:
+
+Airline Variation: Ticket prices vary significantly across airlines. Vistara records the highest average price (30,396.54), followed by Air India, while Air Asia offers the most affordable fares (4,091.07).
+
+Booking Timing: Booking tickets at the last minute (1–2 days before departure) leads to higher prices, with an average of 27,421.17 compared to early bookings at 20,757.50—highlighting a clear cost advantage in early planning.
+
+Time of Travel: Departure and arrival times influence pricing. Flights departing at night and arriving in the evening tend to be more expensive, whereas late-night departures and early-morning arrivals offer relatively lower fares.
+
+Route Impact: Routes such as Chennai to Bangalore and Kolkata to Chennai are among the most expensive, while Hyderabad to Delhi and Delhi to Bangalore are the most budget-friendly.
+
+Class Differences: Business class tickets are substantially more expensive (52,540.08 on average) compared to economy (6,572.34), reflecting the premium nature of service offered.
+
+Advance Booking & Price Correlation: A clear upward trend in price is observed as the booking date approaches the departure day.
+
+Number of Stops: Non-stop flights are the most economical (9,375.94), while one-stop flights have the highest average cost (22,900.99).
+
+Flight Duration: Among airlines, Indigo offers the shortest average travel duration (5.8 hours), while Air India has the longest (15.5 hours), which could be attributed to layovers or indirect routing.
+
+Conclusion:
+
+This analysis provides actionable insights into how various factors affect flight ticket prices. Understanding these trends can empower consumers to make cost-effective travel choices and assist airlines in optimizing their pricing strategies.
