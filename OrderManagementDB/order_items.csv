@@ -1,0 +1,8 @@
+item_id,order_id,product_name,quantity,price
+1,101,Laptop,1,250
+2,102,Phone,2,200
+3,102,Charger,1,50
+4,103,Headphones,3,100
+5,104,Mouse,2,60
+6,105,Monitor,1,500
+7,106,Laptop,1,700
